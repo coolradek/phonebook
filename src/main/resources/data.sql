@@ -1,0 +1,9 @@
+INSERT INTO person(id, name, number) VALUES (1, 'Jan', '789654123');
+INSERT INTO person(id, name, number) VALUES (2, 'John', '329874567');
+INSERT INTO person(id, name, number) VALUES (3, 'Darek', '329874567');
+INSERT INTO person(id, name, number) VALUES (4, 'John', '329874567');
+INSERT INTO person(id, name, number) VALUES (5, 'Adam', '329874567');
+INSERT INTO person(id, name, number) VALUES (6, 'Ewa', '329874567');
+INSERT INTO person(id, name, number) VALUES (7, 'Maria', '329874567');
+INSERT INTO person(id, name, number) VALUES (8, 'Monika', '329874567');
+INSERT INTO person(id, name, number) VALUES (9, 'Cezary', '329874567');
